@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemMonitor", "SystemMonitor.csproj", "{0DAC0ABB-EA5C-4984-A58A-6A4CE7219A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DAC0ABB-EA5C-4984-A58A-6A4CE7219A26}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{0DAC0ABB-EA5C-4984-A58A-6A4CE7219A26}.Debug|Default.Build.0 = Debug|Any CPU
+		{0DAC0ABB-EA5C-4984-A58A-6A4CE7219A26}.Release|Default.ActiveCfg = Release|Any CPU
+		{0DAC0ABB-EA5C-4984-A58A-6A4CE7219A26}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CEA181D-5AF4-43A6-8D8E-EFB18166C491}
+	EndGlobalSection
+EndGlobal
